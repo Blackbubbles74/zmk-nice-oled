@@ -1,4 +1,2 @@
 config SHIELD_NICE_OLED
     def_bool $(shields_list_contains,nice_oled)
-NICE_OLED_POKEMON_ANIMATION=y
-NICE_OLED_GEM_ANIMATION=n
