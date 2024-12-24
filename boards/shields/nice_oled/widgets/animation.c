@@ -141,3 +141,6 @@ void draw_animation(lv_obj_t *canvas, struct zmk_widget_screen *widget) {
     // la segunda imagen
   }
 }
+
+
+CONFIG_NICE_OLED_POKEMON_ANIMATION=y
