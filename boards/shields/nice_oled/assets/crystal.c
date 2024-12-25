@@ -43,8 +43,8 @@ const lv_img_dsc_t crystal_01 = {
     .header.cf = LV_IMG_CF_INDEXED_1BIT,
     .header.always_zero = 0,
     .header.reserved = 0,
-    .header.w = 32,
-    .header.h = 70,
+    .header.w = 70,
+    .header.h = 32,
     .data_size = 620,
     .data = crystal_01_map,
 };
@@ -87,8 +87,8 @@ const lv_img_dsc_t crystal_02 = {
     .header.cf = LV_IMG_CF_INDEXED_1BIT,
     .header.always_zero = 0,
     .header.reserved = 0,
-    .header.w = 32,
-    .header.h = 70,
+    .header.w = 70,
+    .header.h = 32,
     .data_size = 620,
     .data = crystal_02_map,
 };
